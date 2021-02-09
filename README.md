@@ -4,7 +4,7 @@
 ![Dice Game demo image](https://github.com/StevenSigil/Dice-Game/blob/main/images/dice_game_demo.png)
 <figcaption>Dice Game</figcaption>
 
-<br/>
+<br/> <br/>
 
 This is a basic dice rolling app. Click the roll again button and it will return either Player1/Player2 Won or it was a tie.
 
